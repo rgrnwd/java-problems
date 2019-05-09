@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ProbabilityCalculatorTest {
+class BinomialProbabilityCalculatorTest {
 
-    private ProbabilityProblem probabilityCalc = new ProbabilityCalculator();
+    private ProbabilityProblem probabilityCalc = new BinomialProbabilityCalculator();
 
     @Test
     public void calculate_returns_error_when_not_enough_input_provided(){

@@ -1,6 +1,6 @@
 package Problems.ProbabilityProblems;
 
-public class ProbabilityCalculator extends ProbabilityProblem {
+public class BinomialProbabilityCalculator extends ProbabilityProblem {
     private CombinatoricsCalculator combinatoricsCalculator = new CombinatoricsCalculator();
 
     @Override

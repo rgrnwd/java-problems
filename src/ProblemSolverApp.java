@@ -1,7 +1,7 @@
 import Problems.*;
 import Problems.NumericProblems.*;
 import Problems.ProbabilityProblems.CombinatoricsCalculator;
-import Problems.ProbabilityProblems.ProbabilityCalculator;
+import Problems.ProbabilityProblems.BinomialProbabilityCalculator;
 import Problems.ProbabilityProblems.ProbabilityProblem;
 import Problems.SortingProblems.*;
 
@@ -106,8 +106,8 @@ public class ProblemSolverApp {
                 System.out.println("How many elements and slots do you have? separate two numbers by space");
                 return new CombinatoricsCalculator();
             case 9:
-                System.out.println("Input three numbers separated by spaces; times (y), out of (n) and single event probability (p)");
-                return new ProbabilityCalculator();
+                System.out.println("Input three numbers separated by spaces; times (y), trials (n) and single event probability (p)");
+                return new BinomialProbabilityCalculator();
             default:
                 return null;
         }
@@ -125,6 +125,6 @@ public class ProblemSolverApp {
         System.out.println("6. Bubble sort");
         System.out.println("7. Selection sort");
         System.out.println("8. Combinatorics (# of permutations, variations and combinations)");
-        System.out.println("9. Probability of event happening y times out of n");
+        System.out.println("9. Binomial Probability");
     }
 }

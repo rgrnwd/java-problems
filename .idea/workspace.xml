@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a12c99-a0c2-4de6-a395-4651d7290603" name="Default Changelist" comment="" />
+    <list default="true" id="b4a12c99-a0c2-4de6-a395-4651d7290603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="405">
+              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="480">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,38 +45,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/Problems/SortingProblems/BubbleSorterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/Problems/SortingProblems/SelectionSorterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java">
+        <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="447">
+              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +70,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4365">
               <caret line="356" selection-start-line="356" selection-end-line="356" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" selection-start-line="9" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -142,6 +141,9 @@
       <find>getUserInputArray</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -182,8 +184,6 @@
         <option value="$PROJECT_DIR$/test/Problems/NumericProblems/PrimeNumberTest.java" />
         <option value="$PROJECT_DIR$/src/Problemsa/SortingProblems/SortingProblem.java" />
         <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/probabilityCalculator.java" />
-        <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java" />
-        <option value="$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/Games/CardGames/Card.java" />
         <option value="$PROJECT_DIR$/src/Games/CardGames/Deck.java" />
         <option value="$PROJECT_DIR$/test/Games/CardGames/DeckTest.java" />
@@ -196,6 +196,8 @@
         <option value="$PROJECT_DIR$/test/Problems/SortingProblems/SelectionSorterTest.java" />
         <option value="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java" />
+        <option value="$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -214,19 +216,51 @@
         <subPane>
           <expand>
             <path>
-              <item name="JavaFun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFun" type="462c0819:PsiDirectoryNode" />
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaFun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="ProbabilityProblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="ProbabilityProblems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,8 +278,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="Games.CardGames" />
       <recent name="Problems.ProbabilityProblems" />
+      <recent name="Games.CardGames" />
       <recent name="problems.sortingProblems" />
       <recent name="Sorters" />
       <recent name="Problems" />
@@ -266,16 +300,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in JavaFun">
-    <configuration name="All in JavaFun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProbabilityCalculatorTest">
+    <configuration name="ProblemSolverApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolverApp" />
       <module name="JavaFun" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinatoricsCalculatorTest.calculateVariations_with_repetition_should_return_element_times_slots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProbabilityCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFun" />
       <extension name="coverage">
         <pattern>
@@ -284,14 +317,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Problems.ProbabilityProblems" />
-      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.CombinatoricsCalculatorTest" />
-      <option name="METHOD_NAME" value="calculateVariations_with_repetition_should_return_element_times_slots" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.ProbabilityCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProbabilityCalculatorTest.calculate_return_lower_probability_for_same_event_happening_more_times" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFun" />
       <extension name="coverage">
         <pattern>
@@ -300,14 +332,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Problems.ProbabilityProblems" />
-      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.CombinatoricsCalculatorTest" />
-      <option name="METHOD_NAME" value="calculate_should_handle_large_numbers" />
+      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.ProbabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="calculate_return_lower_probability_for_same_event_happening_more_times" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinatoricsCalculatorTest.calculate_should_return_summary_of_probabilities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProbabilityCalculatorTest.calculate_return_probability" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFun" />
       <extension name="coverage">
         <pattern>
@@ -316,34 +348,36 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Problems.ProbabilityProblems" />
-      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.CombinatoricsCalculatorTest" />
-      <option name="METHOD_NAME" value="calculate_should_return_summary_of_probabilities" />
+      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.ProbabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="calculate_return_probability" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Games.CardGames in JavaFun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Games.CardGames.*" />
+          <option name="PATTERN" value="Problems.ProbabilityProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Games.CardGames" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="Problems.ProbabilityProblems" />
+      <option name="MAIN_CLASS_NAME" value="Problems.ProbabilityProblems.ProbabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="calculate_return_same_probability_for_inverted_element_from_slots" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in JavaFun" />
-        <item itemvalue="JUnit.CombinatoricsCalculatorTest.calculateVariations_with_repetition_should_return_element_times_slots" />
-        <item itemvalue="JUnit.Games.CardGames in JavaFun" />
-        <item itemvalue="JUnit.CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" />
-        <item itemvalue="JUnit.CombinatoricsCalculatorTest.calculate_should_return_summary_of_probabilities" />
+        <item itemvalue="JUnit.ProbabilityCalculatorTest" />
+        <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_lower_probability_for_same_event_happening_more_times" />
+        <item itemvalue="Application.ProblemSolverApp" />
+        <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" />
+        <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_probability" />
       </list>
     </recent_temporary>
   </component>
@@ -361,53 +395,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_JavaFun - 2019.05.09 at 14h 49m 47s.xml">
+    <history-entry file="All_in_JavaFun - 2019.05.09 at 17h 31m 17s.xml">
       <configuration name="All in JavaFun" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculate_should_handle_large_numbers - 2019.05.09 at 14h 50m 28s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 31m 58s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculate_should_handle_large_numbers - 2019.05.09 at 14h 50m 42s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 07s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculate_should_handle_large_numbers - 2019.05.09 at 14h 50m 53s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 24s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculate_should_handle_large_numbers - 2019.05.09 at 14h 50m 59s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 40s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculate_should_handle_large_numbers - 2019.05.09 at 14h 51m 08s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculate_should_handle_large_numbers" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 53s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Games_CardGames_in_JavaFun - 2019.05.09 at 14h 51m 29s.xml">
-      <configuration name="Games.CardGames in JavaFun" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest - 2019.05.09 at 17h 32m 58s.xml">
+      <configuration name="ProbabilityCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_JavaFun - 2019.05.09 at 14h 51m 35s.xml">
-      <configuration name="All in JavaFun" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest - 2019.05.09 at 17h 33m 20s.xml">
+      <configuration name="ProbabilityCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CombinatoricsCalculatorTest_calculateVariations_with_repetition_should_return_element_times_slots - 2019.05.09 at 14h 52m 49s.xml">
-      <configuration name="CombinatoricsCalculatorTest.calculateVariations_with_repetition_should_return_element_times_slots" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_same_probability_for_inverted_element_from_slots - 2019.05.09 at 17h 34m 23s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_JavaFun - 2019.05.09 at 14h 53m 27s.xml">
-      <configuration name="All in JavaFun" configurationId="JUnit" />
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_same_probability_for_inverted_element_from_slots - 2019.05.09 at 17h 34m 29s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.26312578" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.26617828" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32975295" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.506105" side_tool="true" weight="0.3243824" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.493895" weight="0.32867885" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.4970949" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6703297" weight="0.3243824" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.6703297" visible="true" weight="0.3243824" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.63247865" weight="0.32223415" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -432,15 +467,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java</url>
-          <line>41</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -615,26 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Problems/SortingProblems/BubbleSorterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -677,10 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,10 +709,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaFun.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="9" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

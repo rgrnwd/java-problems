@@ -5,18 +5,17 @@ public class CombinatoricsCalculator extends ProbabilityProblem {
     @Override
     public String calculate(double[] values) {
         if (values.length < 2) {
-            return "Expected two numbers separated by a space";
-        } else {
-            int elements = (int)values[0];
-            int slots = (int)values[1];
-            if (elements < 1 || slots < 1)
-                return "Invalid Input (negative)";
-
-            return String.format("P=%d,V=%d,C=%d",
-                    calculatePermutations(slots),
-                    calculateVariations(elements, slots, false),
-                    calculateCombinations(elements, slots, false));
+            return "Expected to receive two numbers";
         }
+        int elements = (int)values[0];
+        int slots = (int)values[1];
+        if (elements < 1 || slots < 1)
+            return "Invalid Input (negative)";
+
+        return String.format("P=%d,V=%d,C=%d",
+                calculatePermutations(slots),
+                calculateVariations(elements, slots, false),
+                calculateCombinations(elements, slots, false));
     }
 
     public long calculatePermutations(int slots) {

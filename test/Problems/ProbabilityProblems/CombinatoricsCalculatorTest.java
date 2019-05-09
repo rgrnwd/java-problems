@@ -6,21 +6,31 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CombinatoricsCalculatorTest {
 
-    CombinatoricsCalculator combinatoricsCalc = new CombinatoricsCalculator();
+    private CombinatoricsCalculator combinatoricsCalc = new CombinatoricsCalculator();
 
-    @Test void calculate_should_return_invalid_input_when_elements_negative() {
+    @Test
+    void calculate_should_return_error_when_not_enough_input_given() {
+        double[] invalid_input = { 1 };
+        assertEquals("Expected to receive two numbers", combinatoricsCalc.calculate(invalid_input));
+
+    }
+    @Test
+    void calculate_should_return_invalid_input_when_elements_negative() {
         double[] input = { -2, 3 };
         assertEquals("Invalid Input (negative)", combinatoricsCalc.calculate(input));
     }
-    @Test void calculate_should_return_invalid_input_when_slots_negative() {
+    @Test
+    void calculate_should_return_invalid_input_when_slots_negative() {
         double[] input = { 2, -3 };
         assertEquals("Invalid Input (negative)", combinatoricsCalc.calculate(input));
     }
-    @Test void calculate_should_return_summary_of_probabilities() {
+    @Test
+    void calculate_should_return_summary_of_probabilities() {
         double[] input = { 10, 3 };
         assertEquals("P=6,V=720,C=120", combinatoricsCalc.calculate(input));
     }
-    @Test void calculate_should_handle_large_numbers() {
+    @Test
+    void calculate_should_handle_large_numbers() {
         double[] input = { 20, 15 };
         assertEquals("P=1307674368000,V=20274183401472000,C=15504", combinatoricsCalc.calculate(input));
     }
@@ -47,7 +57,7 @@ class CombinatoricsCalculatorTest {
     }
     @Test
     public void calculateVariations_without_repetition_should_return_factorial_of_large_numbers() {
-//        assertEquals((double)29059430400, combinatoricsCalc.calculateVariations(16, 10, false));
+        assertEquals(Double.valueOf("29059430400"), combinatoricsCalc.calculateVariations(16, 10, false));
     }
     @Test
     public void calculateVariations_without_repetition_should_return_factorial_when_elements_and_available_slots_are_equal() {

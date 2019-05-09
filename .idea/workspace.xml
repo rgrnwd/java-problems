@@ -4,9 +4,7 @@
     <list default="true" id="b4a12c99-a0c2-4de6-a395-4651d7290603" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemSolverApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolverApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+            <state relative-caret-position="1635">
+              <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,13 +189,13 @@
         <option value="$PROJECT_DIR$/src/Problems/SortingProblems/SortingProblem.java" />
         <option value="$PROJECT_DIR$/src/Problems/SortingProblems/SelectionSorter.java" />
         <option value="$PROJECT_DIR$/src/Problems/SortingProblems/BubbleSorter.java" />
-        <option value="$PROJECT_DIR$/src/ProblemSolverApp.java" />
         <option value="$PROJECT_DIR$/test/Problems/SortingProblems/BubbleSorterTest.java" />
         <option value="$PROJECT_DIR$/test/Problems/SortingProblems/SelectionSorterTest.java" />
         <option value="$PROJECT_DIR$/test/Problems/ProbabilityProblems/CombinatoricsCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/CombinatoricsCalculator.java" />
         <option value="$PROJECT_DIR$/src/Problems/ProbabilityProblems/ProbabilityCalculator.java" />
         <option value="$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/ProblemSolverApp.java" />
       </list>
     </option>
   </component>
@@ -300,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProbabilityCalculatorTest">
+  <component name="RunManager" selected="Application.ProblemSolverApp">
     <configuration name="ProblemSolverApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolverApp" />
       <module name="JavaFun" />
@@ -373,9 +371,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProblemSolverApp" />
         <item itemvalue="JUnit.ProbabilityCalculatorTest" />
         <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_lower_probability_for_same_event_happening_more_times" />
-        <item itemvalue="Application.ProblemSolverApp" />
         <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" />
         <item itemvalue="JUnit.ProbabilityCalculatorTest.calculate_return_probability" />
       </list>
@@ -395,15 +393,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_JavaFun - 2019.05.09 at 17h 31m 17s.xml">
-      <configuration name="All in JavaFun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 31m 58s.xml">
-      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 07s.xml">
-      <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProbabilityCalculatorTest_calculate_return_probability - 2019.05.09 at 17h 32m 24s.xml">
       <configuration name="ProbabilityCalculatorTest.calculate_return_probability" configurationId="JUnit" />
     </history-entry>
@@ -424,6 +413,15 @@
     </history-entry>
     <history-entry file="ProbabilityCalculatorTest_calculate_return_same_probability_for_inverted_element_from_slots - 2019.05.09 at 17h 34m 29s.xml">
       <configuration name="ProbabilityCalculatorTest.calculate_return_same_probability_for_inverted_element_from_slots" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProbabilityCalculatorTest_calculate_return_lower_probability_for_same_event_happening_more_times - 2019.05.09 at 17h 36m 56s.xml">
+      <configuration name="ProbabilityCalculatorTest.calculate_return_lower_probability_for_same_event_happening_more_times" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProbabilityCalculatorTest - 2019.05.09 at 17h 37m 58s.xml">
+      <configuration name="ProbabilityCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProbabilityCalculatorTest - 2019.05.09 at 17h 38m 11s.xml">
+      <configuration name="ProbabilityCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -748,20 +746,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
+    <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/Problems/ProbabilityProblems/ProbabilityCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ProblemSolverApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        <state relative-caret-position="1635">
+          <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
